@@ -1,6 +1,6 @@
 # DARKMODE
 
-## Sobre o projeto
+## About
 
 This is a project developed by me as an exercise. This project is a demonstration of my recent JS learning journey.
 
